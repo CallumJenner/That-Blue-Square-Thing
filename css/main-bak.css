@@ -1,0 +1,61 @@
+/*@import url('reset.css');*/
+
+* {
+  font-family: Roboto;
+}
+
+body {
+  background-color: lightgrey;
+}
+
+a {
+  color: white;
+}
+
+#geek-img {
+  position: absolute;
+}
+.card-main {
+  margin: 15px 20%;
+}
+
+.card {
+  background-color: white;
+  padding: 10px;
+  border-radius: 2px;
+}
+
+
+/*
+.page-content {
+  text-align: center;
+  padding: 30px;
+  color: white;
+}
+
+.card-row-1, .card-row-2 {
+  display: flex;
+}
+
+.card {
+  background-color: white;
+  margin: 15px;
+  padding: 15px;
+  flex: 1;
+  text-align: center;
+  border-radius: 2px;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+
+.card img {
+  max-width: inherit;
+}
+
+.card ul {
+  list-style-type: none;
+}
+
+.card h3 {
+  margin: 0;
+}
+*/

@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
   <head>
-
+    
   </head>
   <body>
     <footer>You'd be best off viewing this page using your eyes while sitting comfortably drinking a nice hot cup of coffee.<br>
